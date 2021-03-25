@@ -1,0 +1,274 @@
+.wrapper{
+    margin: 30px 30px 30px 30px;
+    border: 1px solid rgb(114, 110, 110);
+}
+
+.first-block img{
+    width: 100%;
+}
+
+.second-block{
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+
+.check-in{
+    font-size: 16px;
+    opacity: 0.5;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.maraphon{
+    font-size: 22px;
+    line-height: 26,4px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.maraphon-down{
+    width: 220px;
+    height: 60px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.form input{
+    width: 220px;
+    height: 45px;
+    left: 50px;
+    top: 439px;
+    
+    border: 1px solid #6B6B6B;
+    box-sizing: border-box;
+    margin: 4px 0;
+}
+
+.checkbox{
+    display: flex;
+    margin: 8px 0;  
+}
+
+.button-check-up{
+    width: 172px;
+    height: 28px;
+    background-color: black;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 140%;
+}
+.button-check-up a{  
+    width: 147px;
+    height: 17px;
+    color: white;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+@media(min-width:1024px) and (min-height:768px){
+    .wrapper{
+        display: flex;
+        margin: 46px 47px 47px 44px;
+        border: 1px solid rgb(114, 110, 110);
+    }
+    
+    .first-block{
+        width: 453px;
+        height: 675px;
+    }
+    
+    .second-block{
+        
+width: 480px;
+height: 675px;
+
+
+background: #FFFFFF;
+border: 1px solid #D1D1D1;
+box-sizing: border-box;
+    }
+    
+    
+    .check-in{
+        font-size: 16px;
+        opacity: 0.5;
+        font-family: 'Inter', sans-serif;
+    
+    }
+    
+    .maraphon{
+        font-size: 22px;
+        line-height: 26,4px;
+        font-weight: 600;
+        font-family: 'Inter', sans-serif;
+    }
+    
+    .maraphon-down{
+        width: 220px;
+        height: 60px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 140%;
+    }
+    
+    .form input{
+        width: 220px;
+        height: 45px;
+        left: 50px;
+        top: 439px;
+        
+        border: 1px solid #6B6B6B;
+        box-sizing: border-box;
+        margin: 4px 0;
+    }
+    
+    .checkbox{
+        display: flex;
+        margin: 8px 0;  
+    }
+    
+    .button-check-up{
+        width: 172px;
+        height: 28px;
+        background-color: black;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 140%;
+    }
+    .button-check-up a{  
+        width: 147px;
+        height: 17px;
+        color: white;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    
+
+}
+
+
+@media(min-width:1400px) and (min-height:900px){
+    
+.wrapper{
+    display: flex;
+    margin: 60px 103px 164px 230px;
+    align-items: center;
+    align-content: center;
+    border: 1px solid rgb(179, 175, 175);
+  
+}
+
+
+.first-block img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.second-block{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.check-in{
+    font-size: 16px;
+    opacity: 0.5;
+    font-family: 'Inter', sans-serif;
+}
+
+.maraphon{
+    font-size: 32px;
+    line-height: 38,4px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.maraphon-down{
+    width: 329px;
+    height: 44px;
+    line-height: 140%;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    margin: 8px;
+}
+
+.form input{
+    width: 329px;
+    height: 62px;
+    border: 1px solid #6B6B6B;
+    box-sizing: border-box;
+    margin: 16px 16px 16px 0;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.checkbox{
+    display: flex;
+    margin: 8px;  
+}
+
+
+.button-check-up{
+    width: 329px;
+    height: 61px;
+    left: 892px;
+    top: 601px;
+    text-align: center;
+    background: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-check-up a{
+    text-align: center;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    width: 168px;
+    height: 19px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+@media (max-width:900px){
+    .first-block img{
+        max-width: 453px;
+        max-height: 675px;
+    }
+
+    .wrapper{
+        border: none;
+        border-top: 1px solid rgb(65, 64, 64);;
+    }
+}
+}
